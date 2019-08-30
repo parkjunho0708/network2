@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 import java.net.InetSocketAddress;
 import java.net.Socket;
 import java.util.Scanner;
-
+// EchoClient
 public class EchoClient {
 	private static String SERVER_IP = "192.168.246.1";
 	private static int SERVER_PORT = 8000;
